@@ -1,0 +1,6 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\DuongDiNguoiGiaoHang\bin\Debug\DuongDiNguoiGiaoHang.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\DuongDiNguoiGiaoHang\bin\Debug\DuongDiNguoiGiaoHang.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\DuongDiNguoiGiaoHang\bin\Debug\DuongDiNguoiGiaoHang.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\DuongDiNguoiGiaoHang\obj\Debug\DuongDiNguoiGiaoHang.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\DuongDiNguoiGiaoHang\obj\Debug\DuongDiNguoiGiaoHang.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\DuongDiNguoiGiaoHang\obj\Debug\DuongDiNguoiGiaoHang.pdb

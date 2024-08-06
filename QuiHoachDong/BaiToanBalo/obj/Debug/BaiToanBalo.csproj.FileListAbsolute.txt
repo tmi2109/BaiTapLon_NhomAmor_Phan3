@@ -1,0 +1,8 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\BaiToanBalo\bin\Debug\BaiToanBalo.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\BaiToanBalo\bin\Debug\BaiToanBalo.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\BaiToanBalo\bin\Debug\BaiToanBalo.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\BaiToanBalo\obj\Debug\BaiToanBalo.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\BaiToanBalo\obj\Debug\BaiToanBalo.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\BaiToanBalo\obj\Debug\BaiToanBalo.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\BaiToanBalo\obj\Debug\BaiToanBalo.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P3-PP-QuiHoachDong\QuiHoachDong\BaiToanBalo\obj\Debug\BaiToanBalo.csproj.SuggestedBindingRedirects.cache
